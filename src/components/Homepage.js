@@ -22,7 +22,7 @@ export default function Homepage() {
        url: 'https://weather-by-api-ninjas.p.rapidapi.com/v1/weather',
        params: {city:userCity},
        headers: {
-         'X-RapidAPI-Key': '296518cb80msh9374f6cdea98e92p1ed7e8jsnfd678c9251b0',
+         'X-RapidAPI-Key': '1069818cb81ash937f6cd3z98e92p1e57be8jsnfd768cn99251b0',
          'X-RapidAPI-Host': 'weather-by-api-ninjas.p.rapidapi.com'
         }
       };
